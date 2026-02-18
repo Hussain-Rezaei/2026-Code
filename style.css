@@ -1,0 +1,9 @@
+.card-box{
+    background-color: #928d8d;
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    font-size: 50px;
+}
